@@ -1,1 +1,1 @@
-TinDog - It is made with the help of Bootstrap
+TinDog - A Dog Tinder website for dog owners to find playdates for their pets and even meet other dog lovers. The idea behind Tindog is to match dogs and their owners based on their profiles, allowing them to set up playdates and connect with the local dog-loving community. It is made with the help of HTML, CSS and CSS Bootstrap. 
